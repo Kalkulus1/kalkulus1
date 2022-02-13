@@ -3,6 +3,8 @@
 
 ## 🚀 About Me
 
+![Kalkulus's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkulus1&count_private=true&show_icons=true)
+
 <!--
 **Kalkulus1/kalkulus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
