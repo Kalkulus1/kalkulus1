@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://kalkulus.ktechhub.com/img/main_photo.jpg" width="29px">
+
+## 🚀 About Me
 
 <!--
 **Kalkulus1/kalkulus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
