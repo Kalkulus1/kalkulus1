@@ -1,4 +1,3 @@
-### <img src="https://kalkulus.ktechhub.com/img/main_photo.jpg" width="40px">
 ### Hi there 👋
 
 ## 🚀 About Me
